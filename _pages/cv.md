@@ -18,7 +18,7 @@ Research Experience
 * September 2020 - present: Graduate Student Researcher
   * EmoryNLP Lab, Emory University
   * Research Direction: Natural Language Processing
-  * Supervisor: Prof. Jinho D. Choi
+  * Supervisor: Prof. [Jinho D. Choi](http://www.cs.emory.edu/~choi/home.html)
 
 * Summer 2020 - present: Graduate Research Assistant
   * Sarker Lab, Emory University
