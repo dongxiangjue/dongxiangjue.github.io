@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiangjue Dong"
 title_separator          : "-"
 name                     : &name "Xiangjue Dong"
-description              : &description "MSCS at Emory University"
+description              : &description "CS Ph.D Student at Texas A&M University"
 url                      : https://dongxiangjue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dongxiangjue/dongxiangjue.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xiangjue Dong"
   avatar           : "profile.png"
-  bio              : "MSCS Student at Emory University"
-  location         : "Atlanta, GA"
+  bio              : "CS Ph.D Student at Texas A&M University"
+  location         : "College Station, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=-QMxWxkAAAAJ"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Xiangjue_Dong" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=oJ1Q3-EAAAAJ&hl=en"
+  email            : "xj.dong 'at' tamu.edu"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dongxiangjue"
+  github           : #"dongxiangjue"
   google_plus      :
   keybase          :
   instagram        :
